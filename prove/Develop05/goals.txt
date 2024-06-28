@@ -1,0 +1,5 @@
+250
+Level:2,50,250
+SimpleGoal:give talk, give a talk this sunday,100,True
+EternalGoal:read scriptures,read 10 minutes,50
+ChecklistGoal:go to the temple,go as many times as I can,50,1,5,500,False
