@@ -1,0 +1,16 @@
+Large Dough,30,Tray 
+Medium Dough,30,Tray
+Small Dough,5,Tray
+Pizza Sauce,40,Case
+Pizza Cheese,40,Case
+Pepperoni,3,Case
+Sausage,2,Case
+Ham,2,Case
+Pineapple,5,Bag
+Mushroom,5,Case
+Black Olives,5,Bag
+Onion,5,Bag
+Green Peppers,5,Bag
+Large Box,5,Bundle
+Medium Box,5,Bundle
+Small Box,1,Bundle
