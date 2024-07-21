@@ -12,7 +12,6 @@ class UserInterface{
         Console.WriteLine(" 2. Order Inventory");
         Console.WriteLine(" 3. Count Inventory");
         Console.WriteLine(" 4. Simulate Customer Orders");
-        Console.WriteLine(" 5. ");
         Console.Write("Select a choice from the menu: ");
         return Console.ReadLine();
     }

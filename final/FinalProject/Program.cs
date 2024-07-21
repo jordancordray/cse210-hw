@@ -26,9 +26,6 @@ class Program
                 Console.Clear();
                 UI.DoCustomerOrders();
             }
-            else if (choice == "5"){
-                
-            }
         }
         UI.SaveInventory();
     }
