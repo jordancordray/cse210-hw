@@ -1,1 +1,5 @@
-Pepperoni Pizza:Pepperoni,0.04,Case;Pizza Cheese,
+Pepperoni Pizza:Pepperoni,0.04,Case;Pizza Cheese,0.04,Case;Pizza Sauce,0.03,Case;Dough,0.16,Tray;Pizza Box,0.01,Bundle
+Meat Pizza:Pepperoni,0.04,Case;Ham,0.03,Case;Sausage,0.02,Case;Pizza Cheese,0.04,Case;Pizza Sauce,0.03,Case;Dough,0.16,Tray;Pizza Box,0.01,Bundle
+Hawaiian Pizza:Ham,0.03,Case;Pineapple,0.02,Bag;Pizza Cheese,0.04,Case;Pizza Sauce,0.03,Case;Dough,0.16,Tray;Pizza Box,0.01,Bundle
+Veggie Pizza:Mushroom,0.02,Bag;Olives,0.02,Bag;Onion,0.02,Bag;Green Peppers,0.02,Bag;Pizza Cheese,0.04,Case;Pizza Sauce,0.03,Case;Dough,0.16,Tray;Pizza Box,0.01,Bundle
+Everything Pizza:Pepperoni,0.04,Case;Ham,0.03,Case;Sausage,0.02,Case;Mushroom,0.02,Bag;Olives,0.02,Bag;Onion,0.02,Bag;Green Peppers,0.02,Bag;Pizza Cheese,0.04,Case;Pizza Sauce,0.03,Case;Dough,0.16,Tray;Pizza Box,0.01,Bundle

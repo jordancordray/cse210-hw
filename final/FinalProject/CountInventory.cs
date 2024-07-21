@@ -18,4 +18,14 @@ class CountInventory: Inventory{
             _countedInventory.Add(countedProduct);
         }
     }
+
+    public void CalculateVariance(List<Product>currentInventory){
+        Console.WriteLine($"Inventory variances: ");
+        Console.WriteLine("Name: [current], [counted], [variance]");
+        int counter = 0;
+        foreach (Product product in currentInventory){
+            Console.WriteLine($"{product.GetName()}: [{String.Format("{0:0.00}", product.GetQuantity())}], [{String.Format("{0:0.00}",_countedInventory[counter].GetQuantity())}], [{String.Format("{0:0.00}", product.GetQuantity()-_countedInventory[counter].GetQuantity())}]");
+        counter++;
+        }
+    }
 }

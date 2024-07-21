@@ -28,7 +28,7 @@ public class Product {
     }
 
     public string GetStringRepresentation(){
-        return $"{_name},{_quantity},{_quantityType}";
+        return $"{_name},{String.Format("{0:0.00}", _quantity)},{_quantityType}";
     }
 
     public void AddQuantity(double addedQuantity){

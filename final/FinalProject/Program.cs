@@ -3,7 +3,8 @@ using System;
 class Program
 {
     static void Main(string[] args)
-    {
+    {   
+        Console.Clear();
         UserInterface UI = new();
         UI.LoadInventory();
         string choice = "";
@@ -22,7 +23,8 @@ class Program
                 UI.DoCount();
             }
             else if (choice == "4"){
-                
+                Console.Clear();
+                UI.DoCustomerOrders();
             }
             else if (choice == "5"){
                 

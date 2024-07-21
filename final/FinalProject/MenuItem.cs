@@ -24,4 +24,8 @@ class MenuItem{
      public int GetQuantity(){
         return _quantity;
     }
+
+    public string OrderRepresentation(){
+        return $"Name: {_name}; Quantity: {_quantity}";
+    }
 }
